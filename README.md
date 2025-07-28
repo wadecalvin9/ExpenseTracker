@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+💰 Expense Tracker App
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+A simple and intuitive expense tracker app built using FlutterFlow and Firebase that allows users to manage their personal finances by tracking income and expenses.
+📱 Features
+
+    🔐 User Authentication (Email/Password & Google Sign-In)
+
+    ➕ Add income and expense entries
+        Dark Mode and Light Mode
+        Supabase Backend 
+  
